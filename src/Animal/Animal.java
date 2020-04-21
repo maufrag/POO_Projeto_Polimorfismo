@@ -3,7 +3,7 @@ package Animal;
 public abstract class Animal {
     protected double peso;
     protected int indade;
-    protected String[] membros;
+    protected int membros;
 
 
     public abstract void locomover();

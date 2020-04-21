@@ -2,7 +2,7 @@ package Filos;
 
 import Animal.Animal;
 
-public class Mamiferos extends Animal {
+public class Mamifero extends Animal {
     public void corPelo(){
 
     }

@@ -1,10 +1,8 @@
 package Canguru;
 
-import Filos.Mamiferos;
+import Filos.Mamifero;
 
-import java.awt.desktop.SystemSleepEvent;
-
-public class Canguru extends Mamiferos {
+public class Canguru extends Mamifero {
 
     @Override
     public void locomover() {
