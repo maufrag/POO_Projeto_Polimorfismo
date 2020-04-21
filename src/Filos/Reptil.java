@@ -15,7 +15,7 @@ public class Reptil extends Animal {
 
     @Override
     public void emitirSom() {
-        System.out.println("Som de RÃ©ptil");
+        System.out.println("Som de Réptil");
     }
 
     public void corEscama(){
